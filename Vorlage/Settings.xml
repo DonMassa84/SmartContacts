@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<GmPcBackup>
+  <options>
+    <ziel>F:\Backup</ziel>
+  </options>
+  <paths rechner="VAIO" typ="Festplatte">
+    <!--<item quelle="D:\Quicken" ziel="Quicken2" MaxFilesInZip="20" />    -->
+    <item quelle="C:\Users\Dara\Music\Playlists" ziel="MusicPlaylists" />
+    <item quelle="C:\Users\Dara\AppData\Roaming\Subversion" ziel="RoamingSubversion" />
+    <item quelle="C:\Users\Dara\AppData\Roaming\Thunderbird" ziel="RoamingThunderbird" />
+    <item quelle="C:\Users\Dara\AppData\Roaming\Mozilla" ziel="RoamingMozilla" />
+    <item quelle="C:\Users\Dara\AppData\Roaming\Nuance" ziel="RoamingNuance" />
+    <item quelle="C:\Users\Dara\AppData\Roaming\Steganos" ziel="Steganos" />
+    <item quelle="D:\Quicken" ziel="Quicken" />
+    <item quelle="D:\Dokumente\Lexware" ziel="LexwareQuicken" />
+    <item quelle="C:\Users\Dara\AppData\Roaming\Lexware\Quicken" ziel="RoamingQuicken" />
+    <item quelle="D:\Downloads" ziel="Downloads" />
+    <item quelle="D:\Backup" ziel="Backup" />
+    <item quelle="D:\Dokumente\Bank" ziel="Bank" />
+    <item quelle="D:\Dokumente\Firma" ziel="Firma" />
+    <item quelle="D:\Dokumente\Freizeit" ziel="Freizeit" />
+    <item quelle="D:\Dokumente\Gesundheit" ziel="Gesundheit" />
+    <item quelle="D:\Dokumente\GmApps" ziel="GmApps" />
+    <item quelle="C:\Users\Dara\AppData\Roaming\GmApps" ziel="RoamingGmApps" />
+    <item quelle="D:\Dokumente\GmDaten" ziel="GmDaten" />
+    <item quelle="D:\Dokumente\Haus" ziel="Haus" />
+    <item quelle="D:\Dokumente\Heilpraktiker" ziel="Heilpraktiker" />
+    <item quelle="D:\Dokumente\Smartphone" ziel="Smartphone" />
+    <item quelle="D:\Dokumente\SoliPrax" ziel="SoliPrax" />
+    <item quelle="D:\Dokumente\Steuer" ziel="Steuer" />
+    <item quelle="D:\Dokumente\Telefon" ziel="Telefon" />
+    <item quelle="D:\Dokumente\Verein" ziel="Verein" />
+    <item quelle="D:\Dokumente\VeraCrypt" ziel="VeraCrypt" />
+    <item quelle="D:\Musik" ziel="Musik" />
+    <item quelle="D:\Videos" ziel="Videos" />
+    <item quelle="D:\Hilfe" ziel="Hilfe" />
+    <item quelle="D:\InhaltStick" ziel="InhaltStick" />
+    <item quelle="D:\Projekte" ziel="Projekte" />
+    <item quelle="D:\Tools" ziel="Tools" />
+    <item quelle="D:\VmWare" ziel="VmWare" />
+    <item quelle="C:\Python34" ziel="Python34" />
+    <item quelle="C:\Documentation" ziel="Documentation" />
+    <!--<item quelle="Computer\Gudrun Handy\Phone\DCIM\Camera" typ="Smartphone" ziel="Gudrun Handy\Phone\Bilder">
+      <dependencies>
+        <item name=""/>
+        <item name=""/>
+      </dependencies>
+    </item> -->
+  </paths>
+</GmPcBackup>
